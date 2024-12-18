@@ -23,3 +23,9 @@
 2024-12-18 16:14:06,247 : INFO :test_bankapp_url_001:  Taking screenshot
 2024-12-18 16:14:06,746 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
 
+2024-12-18 16:53:00,393 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is started
+2024-12-18 16:53:00,393 : INFO :test_bankapp_url_001:  Opening the Bank Application URL-->https://apps.credence.in/ 
+2024-12-18 16:53:04,015 : INFO :test_bankapp_url_001:  Checking the Bank Application Title-->Bank Application
+2024-12-18 16:53:04,027 : INFO :test_bankapp_url_001:  Taking screenshot
+2024-12-18 16:53:04,451 : INFO :test_bankapp_url_001:  Testcase test_bankapp_url_001 is passed
+
